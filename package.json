@@ -1,0 +1,24 @@
+{
+  "name": "marvel-dark-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "A dark & colorful syntax theme for Atom Editor.",
+  "keywords": [
+    "syntax",
+    "theme",
+    "dark",
+    "grey",
+    "gray",
+    "black",
+    "blue",
+    "colorful",
+    "marvel",
+    "atom",
+    "monokai"
+  ],
+  "repository": "https://github.com/tyrollins/marvel-dark-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.13.0 <2.0.0"
+  }
+}
