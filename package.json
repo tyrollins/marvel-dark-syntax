@@ -1,7 +1,7 @@
 {
   "name": "marvel-dark-syntax",
   "theme": "syntax",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "A dark & colorful syntax theme for Atom Editor.",
   "keywords": [
     "syntax",
