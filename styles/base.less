@@ -46,13 +46,6 @@ atom-text-editor {
     background-color: @syntax-selection-color;
   }
 
-  div.line:not(.cursor-line) {
-    .trailing-whitespace {
-      background-color: @background-color-error;
-      color: contrast(@background-color-error);
-    }
-  }
-
   .syntax--entity.syntax--other.syntax--attribute-name {
     font-style: italic;
   }
@@ -161,11 +154,11 @@ atom-text-editor {
 }
 
 .syntax--invalid {
-  color: @syntax-cursor-color;
+  color: @snow;
   background-color: @dark-pink;
 
   &.syntax--deprecated {
-    color: @syntax-cursor-color;
+    color: @snow;
     background-color: @purple;
   }
 }
